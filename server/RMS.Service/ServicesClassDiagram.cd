@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RMS.Service.Identity.Services.CurrentUser" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Identity\Services\CurrentUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.AuthServices" BaseTypeListCollapsed="true">
+    <Position X="18" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAEAAAAAAAAgAAAAAAAAAAABAAIEAAAQAAAAAAA=</HashCode>
+      <FileName>Implementations\AuthServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.BookingServices" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIYCAAAAAAAAAEAAAgAAAAAAAAEAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Implementations\BookingServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.DishServices" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>IIYCAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Implementations\DishServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.EmployeeServices" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="7" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIACAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implementations\EmployeeServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.OrderServices" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="2.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AIYCAQAAAACAgAAAAAEAAAQAAAAAAAAAAAIAABAAQAA=</HashCode>
+      <FileName>Implementations\OrderServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.RestaurantServices" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIYCAAAAAAAAAAAAAAABCAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implementations\RestaurantServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RMS.Service.Implementations.UserServices" BaseTypeListCollapsed="true">
+    <Position X="11" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIQCAAAAAAAAgAAAAAAAAAAAAAEAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Implementations\UserServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RMS.Service.DependencyInjection">
+    <Position X="15.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyInjection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RMS.Service.JwtConfiguration">
+    <Position X="12.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JwtConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RMS.Service.Contracts.IAuthServices">
+    <Position X="18.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Contracts\IAuthServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Service.Contracts.IBookingServices">
+    <Position X="7.5" Y="8.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAEAAAgAAAAAAAAEAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Contracts\IBookingServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Service.Contracts.IDishServices">
+    <Position X="22.25" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAYAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IDishServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Service.Contracts.IEmployeeServices">
+    <Position X="11.75" Y="9.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IEmployeeServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Service.Contracts.IOrderServices">
+    <Position X="3.5" Y="6.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AIQAAQAAAACAgAAAAAEAAAQAAAAAAAAAAAIAABAAAAA=</HashCode>
+      <FileName>Contracts\IOrderServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Service.Contracts.IRestaurantServices">
+    <Position X="14.5" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAABCAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IRestaurantServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Service.Contracts.IUserServices">
+    <Position X="11.25" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAAAAAAAAEAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IUserServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

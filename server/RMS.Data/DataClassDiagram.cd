@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RMS.Data.ApplicationDbContext">
+    <Position X="7.5" Y="6.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>gAEAABAAAAggAECAAAQBAAAAEAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RMS.Data.ApplicationUser">
+    <Position X="4.75" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAEAAAAAgAAAAAAAAAAAAAAAAAAACAAAEAAAAAAg=</HashCode>
+      <FileName>ApplicationUser.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Restaurant" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RMS.Data.AuditableEntity">
+    <Position X="15" Y="1.75" Width="2" />
+    <InheritanceLine Type="RMS.Data.BaseEntity" FixedToPoint="true">
+      <Path>
+        <Point X="11.5" Y="1.603" />
+        <Point X="11.5" Y="1.875" />
+        <Point X="15" Y="1.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAACAAAAAAAAAAAAACAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>AuditableEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.BaseEntity">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.DependencyInjection">
+    <Position X="11.75" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyInjection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RMS.Data.Configurations.BookingEntityConfiguration" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configurations\BookingEntityConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.Configurations.DishEntityConfiguration" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configurations\DishEntityConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.Configurations.OrderEntityConfiguration" BaseTypeListCollapsed="true">
+    <Position X="18" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configurations\OrderEntityConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.Configurations.RestaurantEntityConfiguration" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configurations\RestaurantEntityConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.Configurations.UserEntityConfiguration" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configurations\UserEntityConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RMS.Data.Models.Booking">
+    <Position X="2" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAAAAEAAAAAAAAEgAAAAAAAABAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Booking.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="User" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RMS.Data.Models.Dish">
+    <Position X="16.25" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAQAAAEAABAABAAAAAAAAAAAAAAAEAEAACAA=</HashCode>
+      <FileName>Models\Dish.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Restaurant" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RMS.Data.Models.Order">
+    <Position X="5" Y="2.25" Width="3" />
+    <AssociationLine Name="Delivery" Type="RMS.Data.ApplicationUser" ManuallyRouted="true">
+      <Path>
+        <Point X="6.125" Y="5.088" />
+        <Point X="6.125" Y="6.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAABAAAGAAAAAAAABAABAAgAAAAAAAABAAAEAAAAAAg=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Restaurant" />
+      <Property Name="User" />
+      <Property Name="Delivery" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RMS.Data.Models.OrdersDishes">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\OrdersDishes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Order" />
+      <Property Name="Dish" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RMS.Data.Models.Restaurant">
+    <Position X="12.25" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIAAAgAAAABAQAAAQACAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Restaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RMS.Data.IAuditableEntity">
+    <Position X="17.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAACAAAAAAAAAAAAACAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IAuditableEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RMS.Data.IEntity">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

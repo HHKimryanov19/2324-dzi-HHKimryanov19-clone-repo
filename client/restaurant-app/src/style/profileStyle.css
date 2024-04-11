@@ -1,0 +1,38 @@
+#formsDiv{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.emailsForms
+{
+    width: 450px;
+}
+
+.emailsForms input {
+    width: 80%;
+}
+
+#profileForms
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formDiv
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.formDiv input:nth-child(2){
+    margin-left: 20px;
+}

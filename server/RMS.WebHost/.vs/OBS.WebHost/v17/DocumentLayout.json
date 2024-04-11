@@ -1,0 +1,1005 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\bookingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\configurations\\restaurantentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\dishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\idishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\irestaurantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\restaurantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\implementations\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\ibookingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC35AD1-DF7F-483B-BD78-0457F2920DD4}|..\\RMS.Service\\RMS.Service.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.service\\contracts\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\configurations\\orderentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\configurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\orderrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\configurations\\dishentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\configurations\\bookingentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36962903-026E-4F67-B047-CFF459B0B631}|..\\RMS.Test\\RMS.Test.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.test\\bookingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\contracts\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\enum\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\passwordsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\userrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\restaurantrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\dishrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\dishcountrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\bookingrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\responsemodels\\basermentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\inputmodels\\userim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\inputmodels\\restaurantim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\inputmodels\\ordersdishesim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\inputmodels\\orderim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\inputmodels\\dishim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\models\\inputmodels\\bookingim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13926B23-B92E-4E67-8E34-EB7285FB43F5}|..\\RMS.Shared\\RMS.Shared.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.shared\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\models\\ordersdishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FEF332-4A2C-4D1D-B019-134519C226DE}|..\\RMS.Data\\RMS.Data.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DishController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\DishController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DishController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\DishController.cs",
+              "RelativeToolTip": "Controllers\\DishController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:21:24.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:21:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\OrderServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\OrderServices.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAiwLwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:18:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DishServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\DishServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\DishServices.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAE4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDishServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IDishServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IDishServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IDishServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IDishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IEmployeeServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IEmployeeServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IEmployeeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IOrderServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IOrderServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IOrderServices.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwCwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRestaurantServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IRestaurantServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IRestaurantServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IRestaurantServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IRestaurantServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RestaurantServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\RestaurantServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\RestaurantServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\RestaurantServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\RestaurantServices.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:20:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\ExceptionMessages.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\ExceptionMessages.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:49:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IUserServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IUserServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IUserServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\UserServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\UserServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\UserServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\BookingServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\BookingServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\BookingServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\BookingServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:06:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBookingServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IBookingServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IBookingServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IBookingServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IBookingServices.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vxcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\AuthServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\AuthServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\AuthServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\AuthServices.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAswKkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:06:07.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Contracts\\IAuthServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Contracts\\IAuthServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Contracts\\IAuthServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vxQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:20:04.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DishServices.cs",
+              "DocumentMoniker": "X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs",
+              "ToolTip": "X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\DishServices.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAArwJQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:49:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs",
+              "ToolTip": "X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\OrderServices.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:49:19.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Roles.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Roles.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Roles.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:49:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "RelativeToolTip": "..\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:06:41.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "ToolTip": "X:\\Project\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2324-dzi-HHKimryanov19\\server\\RMS.Service\\Implementations\\EmployeeServices.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAArwHQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:48:22.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderEntityConfiguration.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\OrderEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Configurations\\OrderEntityConfiguration.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\OrderEntityConfiguration.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Configurations\\OrderEntityConfiguration.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\ApplicationUser.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\RMS.Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Address.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\Address.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\Address.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Configurations\\UserEntityConfiguration.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Configurations\\UserEntityConfiguration.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowDwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderRM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\OrderRM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\OrderRM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\OrderRM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\OrderRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\DependencyInjection.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\RMS.Data\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DishEntityConfiguration.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\DishEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Configurations\\DishEntityConfiguration.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\DishEntityConfiguration.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Configurations\\DishEntityConfiguration.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestaurantEntityConfiguration.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\RestaurantEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Configurations\\RestaurantEntityConfiguration.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\RestaurantEntityConfiguration.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Configurations\\RestaurantEntityConfiguration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:45:35.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\ApplicationDbContext.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\RMS.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwFEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Models\\Restaurant.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Restaurant.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingEntityConfiguration.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\BookingEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Configurations\\BookingEntityConfiguration.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Configurations\\BookingEntityConfiguration.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Configurations\\BookingEntityConfiguration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T16:36:29.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwFAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:11:26.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:20:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookingTests.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Test\\BookingTests.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Test\\BookingTests.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Test\\BookingTests.cs",
+              "RelativeToolTip": "..\\RMS.Test\\BookingTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Contracts\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Contracts\\ICurrentUser.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Contracts\\ICurrentUser.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Contracts\\ICurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Enum\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Enum\\FoodCategory.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Enum\\FoodCategory.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Enum\\FoodCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PasswordsModel.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\PasswordsModel.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\PasswordsModel.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\PasswordsModel.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\PasswordsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\LoginModel.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\LoginModel.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserRM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\UserRM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\UserRM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\UserRM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\UserRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RestaurantRM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\RestaurantRM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\RestaurantRM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\RestaurantRM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\RestaurantRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DishRM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\DishRM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\DishRM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\DishRM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\DishRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DishCountRM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\DishCountRM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\DishCountRM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\DishCountRM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\DishCountRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookingRM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\BookingRM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\BookingRM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\BookingRM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\BookingRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseRMEntity.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\BaseRMEntity.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\ResponseModels\\BaseRMEntity.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\ResponseModels\\BaseRMEntity.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\ResponseModels\\BaseRMEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserIM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\UserIM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\InputModels\\UserIM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\UserIM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\InputModels\\UserIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RestaurantIM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\RestaurantIM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\InputModels\\RestaurantIM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\RestaurantIM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\InputModels\\RestaurantIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrdersDishesIM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\OrdersDishesIM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\InputModels\\OrdersDishesIM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\OrdersDishesIM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\InputModels\\OrdersDishesIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderIM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\OrderIM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\InputModels\\OrderIM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\OrderIM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\InputModels\\OrderIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DishIM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\DishIM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\InputModels\\DishIM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\DishIM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\InputModels\\DishIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BookingIM.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\BookingIM.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Models\\InputModels\\BookingIM.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Models\\InputModels\\BookingIM.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Models\\InputModels\\BookingIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\BaseEntity.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\BaseEntity.cs",
+              "RelativeToolTip": "..\\RMS.Data\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\AuditableEntity.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\AuditableEntity.cs",
+              "RelativeToolTip": "..\\RMS.Data\\AuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\IAuditableEntity.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\IAuditableEntity.cs",
+              "RelativeToolTip": "..\\RMS.Data\\IAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\IEntity.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\IEntity.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\IEntity.cs",
+              "RelativeToolTip": "..\\RMS.Data\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Shared\\Enum\\OrderStatus.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Shared\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "..\\RMS.Shared\\Enum\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrdersDishes.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\OrdersDishes.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Models\\OrdersDishes.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\OrdersDishes.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Models\\OrdersDishes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Order.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Models\\Order.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Order.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Models\\Dish.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Dish.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\RMS.Data\\Models\\Booking.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.Data\\Models\\Booking.cs",
+              "RelativeToolTip": "..\\RMS.Data\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:26:31.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+html
+{
+    background-color: #e0e0e4;
+}
+
+#page
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#startDiv
+{
+    width: 100%;
+    margin-left: 25vh;
+}
+
+#startDiv #containerR
+{
+    margin-left: 0;
+}
+
+#mainContent
+{
+    margin-left: 25vh;
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

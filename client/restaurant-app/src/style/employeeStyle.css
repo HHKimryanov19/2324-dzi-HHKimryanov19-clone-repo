@@ -1,0 +1,10 @@
+#dishEmployee{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.updateInput{
+    width: 90%;
+}

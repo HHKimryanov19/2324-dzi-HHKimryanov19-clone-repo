@@ -1,0 +1,61 @@
+.info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25vh;
+    align-items: center;
+}
+
+#backgroundIMG
+{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+#box
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    padding: 30px;
+    line-height: 40px;
+    border-radius: 20px;
+}
+
+#mainPart
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+#infoText
+{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    transform: translate(0, -50%);
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    width: 60%;
+}
+
+h3#pInfo{
+    font-size: 50px;
+}
+
+h2#pInfo{
+    font-size: 20px;
+}
+
+#pInfo{
+    margin: 0px 0px 10px 0px;
+}
+
+.bookButton{
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+#formUser{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 400px;
+}
+
+#formButton
+{
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #269FB4;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bookingLabel{
+    margin-right: 20px;
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|x:\\project\\p\\2324-dzi-hhkimryanov19\\server\\rms.webhost\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF3344-6A10-4B77-92A0-F821221C4101}|RMS.WebHost.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:32:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "X:\\Project\\p\\2324-dzi-HHKimryanov19\\server\\RMS.WebHost\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:32:15.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

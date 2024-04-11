@@ -1,0 +1,54 @@
+.orderDishInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 60%;
+}
+
+#userOrders #dishBox
+{
+    margin-top: 0;
+    width: 90%;
+    margin-left: 20vh;
+}
+
+#employeeOM #dishBox
+{
+    margin-top: 0;
+    width: 90%;
+    margin-left: 20vh;
+}
+
+#dishBox .dishCard
+{
+    margin-top: 10px;
+}
+
+#addRemoveButtons
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#line{
+    border: none;
+    height: 10px;
+    color: red
+}
+
+#final{
+    font-weight: bolder;
+}
+
+
+#backButton
+{
+    border: none;
+    background: none;
+}
+
+#backButton svg
+{
+    color: black;
+    font-size: 35px;
+}

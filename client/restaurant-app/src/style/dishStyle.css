@@ -1,0 +1,85 @@
+.dishCard
+{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.countP{
+    margin-right: 40px;
+}
+
+#dishInfoDiv
+{
+    display: flex;
+}
+
+#dishBox
+{
+    padding-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+#image
+{
+    display: flex;
+    align-self: center;
+    border-radius: 10px 0px 0px 10px;
+    height: 70px;
+    width: 100px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+#dishInfo
+{
+    display: flex;
+}
+
+#dishInfo p{
+    margin-right: 20px;
+}
+
+#buttons
+{
+    display: flex;
+    flex-direction: row;
+    align-self:center;
+}
+
+#buttons button{
+    border: none;
+    border-radius: 15px;
+    background-color: #0097c9;
+    padding: 10px 15px;
+    margin-left: 5px;
+}
+
+#buttons #countButtons
+{
+    background-color: #e0e0e4;
+    font-weight: bold;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 10px;
+}
+
+#buttons #crossButton
+{
+    background-color: white;
+    font-weight: bold;
+}
+
+#close
+{
+    color: black
+}

@@ -1,0 +1,77 @@
+#adminPage{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#homeAdmin
+{
+    margin-left: 25vh;
+}
+
+.Form
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Form label{
+    margin-right: 10px;
+}
+
+#twoInput
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#emailInput{
+    width: 90%;
+}
+
+#twoInput label {
+    margin-left: 10px;
+}
+
+.addInput input {
+    margin-left: 10px;
+}
+
+#containerAdmin{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    width: 100%;
+    height: 100%;
+    justify-items: center;
+    margin-left: 0;
+}
+
+@media only screen and (max-width: 1600px) {
+    #containerAdmin
+    {
+        grid-template-columns: repeat(4,1fr);
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    #containerAdmin
+    {
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    #containerAdmin
+    {
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #containerAdmin
+    {
+        grid-template-columns: repeat(1,1fr);
+    }
+}
